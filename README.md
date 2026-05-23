@@ -1,4 +1,4 @@
-# 🚀 Multithreaded TCP Port Scanner em Python
+# 🚀 SENAI - TCP Port Scanner em Python
 
 Este é um escaner de portas TCP desenvolvido em Python que utiliza conceitos de **Multithreading** para realizar varreduras rápidas e eficientes em endereços IP ou domínios. O projeto foi desenvolvido com fins puramente acadêmicos para compreender a integração entre arquitetura de software (concorrência) e protocolos de redes de computadores.
 
